@@ -21,14 +21,15 @@ Take help from github help section for different commands and other errors
 ## git config
 To set the basic configurations on github like your name and email. 
 
-## git config--global user.name “Kaushiki Anand”
-Sets configuration values for your user name on git. 
+## git tag
+To see the list of available tags. 
 
-## git config –-global user.email name@gmail.com
-Sets configuration values for your user email on git.
+## git remove rm
+To remove a remote from our local repository. 
 
-## git config –-global color.ui true
-To see different colours on command line for different outputs. 
+## git clone
+To clone or make a local copy of the global repository in your system 
+(git clone command downloads the repository and creates a remote named as origin which can be checked by command – git remote -v). 
 
 ## git branch
 To see all the branches present and current branch that we are working on. 
@@ -66,14 +67,14 @@ To add a specific list of files to staging area.
  ## git commit -a -m “Readme.md”
  To add any of our tracked files to staging area and commit them by providing a message to remember. 
  
- ## git reset –soft HEAD^
- To undo last commit and bring file to staging area. 
+ ## git rebase
+Three tasks are performed by git rebase 
  
- ## git reset –hard HEAD^
- To undo last commit and remove file from the staging area as well
+ ## git push –tags
+ To push the tags to remote repository. 
  
- ## git reset –hard HEAD^^
- To undo last 2 commits and all changes. 
+ ## git fetch
+ To fetch down any changes from global repository to current repository  
  
  ## git remote add origin https://github.com/name/MyAlgorithms.git
  This commands make a bookmark which signifies that this particular remote refers to this URL. 
@@ -81,7 +82,3 @@ This remote will be used to pull any content from the directory and push our loc
  
  ## git remote add <address> 
   To add new remotes to our local repository for a particular git address.
- 
- ##git push –tags
- To push the tags to remote repository. 
- 
