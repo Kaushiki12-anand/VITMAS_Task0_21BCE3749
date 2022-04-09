@@ -24,7 +24,7 @@ To set the basic configurations on github like your name and email.
 ## git config--global user.name “Kaushiki Anand”
 Sets configuration values for your user name on git. 
 
-## git config –-global user.email kaushiki1203@gmail.com
+## git config –-global user.email name@gmail.com
 Sets configuration values for your user email on git.
 
 ## git config –-global color.ui true
@@ -75,7 +75,7 @@ To add a specific list of files to staging area.
  ## git reset –hard HEAD^^
  To undo last 2 commits and all changes. 
  
- ## git remote add origin https://github.com/madaan123/MyAlgorithms.git
+ ## git remote add origin https://github.com/name/MyAlgorithms.git
  This commands make a bookmark which signifies that this particular remote refers to this URL. 
 This remote will be used to pull any content from the directory and push our local content to the global server. 
  
