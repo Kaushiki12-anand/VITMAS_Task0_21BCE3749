@@ -81,3 +81,7 @@ This remote will be used to pull any content from the directory and push our loc
  
  ## git remote add <address> 
   To add new remotes to our local repository for a particular git address.
+ 
+ ##git push –tags
+ To push the tags to remote repository. 
+ 
