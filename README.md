@@ -1,5 +1,5 @@
-# VITMAS_Task0_21BCE3749
-#Git Commands
+# VITMAS_Task0_21BCE3749-
+Git Commands
 ## git init
 To create a local git repository for us in our store folder.This will help to manage the git commands for that particular repository. 
  
